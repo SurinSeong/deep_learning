@@ -1,8 +1,8 @@
 # Yolo
 
-## 객체 검출
+## 객체 탐지
 
-[객체 검출](https://rubber-tree.tistory.com/119)
+[객체 탐지](https://rubber-tree.tistory.com/119)
 
 - 정지 영상 또는 동영상에서의 객체 검출
     - 영상처리 및 컴퓨터 비전 분야에서 많이 활용되는 기술 중 하나
